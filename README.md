@@ -8,4 +8,4 @@ GitHub Page
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigpete-za&repo=posh-prof&theme=chartreuse-dark)](https://github.com/bigpete-za/posh-prof)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigpete-za&repo=torrent-mgr&theme=chartreuse-dark)](https://github.com/bigpete-za/torrent-mgr)
